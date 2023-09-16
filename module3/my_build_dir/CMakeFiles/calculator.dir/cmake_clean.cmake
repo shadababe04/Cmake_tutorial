@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/calculator.dir/add.cpp.o"
+  "CMakeFiles/calculator.dir/add.cpp.o.d"
+  "CMakeFiles/calculator.dir/div.cpp.o"
+  "CMakeFiles/calculator.dir/div.cpp.o.d"
+  "CMakeFiles/calculator.dir/main.cpp.o"
+  "CMakeFiles/calculator.dir/main.cpp.o.d"
+  "CMakeFiles/calculator.dir/resultprint.cpp.o"
+  "CMakeFiles/calculator.dir/resultprint.cpp.o.d"
+  "calculator"
+  "calculator.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/calculator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
