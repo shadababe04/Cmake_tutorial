@@ -1,2 +1,0 @@
-C:/msys64/mingw64/bin/ar.exe qc libLib2.a CMakeFiles/Lib2.dir/lib2.cpp.obj
-C:/msys64/mingw64/bin/ranlib.exe libLib2.a
