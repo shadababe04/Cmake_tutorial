@@ -1,0 +1,5 @@
+D:/C_C++/Cmake_tutorial/CMAKE2_TUTORIAL/build/CMakeFiles/edit_cache.dir
+D:/C_C++/Cmake_tutorial/CMAKE2_TUTORIAL/build/CMakeFiles/rebuild_cache.dir
+D:/C_C++/Cmake_tutorial/CMAKE2_TUTORIAL/build/src/CMakeFiles/main.dir
+D:/C_C++/Cmake_tutorial/CMAKE2_TUTORIAL/build/src/CMakeFiles/edit_cache.dir
+D:/C_C++/Cmake_tutorial/CMAKE2_TUTORIAL/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v6
+8	114	7484810581893546	src/CMakeFiles/main.dir/main.c.obj	10908ab53f4efebe
+115	250	7484810582921994	main.exe	e2f58ebc2ff0cdb6
+13	116	7484813977723416	src/CMakeFiles/main.dir/main.c.obj	10908ab53f4efebe
+116	257	7484813978696030	hex/main.exe	f24641c3df6ce6bc
